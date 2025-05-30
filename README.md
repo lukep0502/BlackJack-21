@@ -1,26 +1,28 @@
-# Jogo de 21 (Blackjack)
+# Blackjack Game (21)
 
-Este é um jogo de Blackjack desenvolvido em Python usando a biblioteca Pygame para a interface gráfica. O jogador pode clicar em botões para pedir cartas ("hit") ou parar a rodada ("stand").
+This is a Blackjack game developed in Python using the Pygame library for the graphical interface. The player can click buttons to draw cards ("Hit") or stop the round ("Stand").
 
-Todas as imagens das cartas foram separadas manualmente e o design é simples, focado na funcionalidade.
+All card images were manually separated, and the design is simple, focusing on functionality.
 
-O código foi escrito em inglês, mesmo sendo meu primeiro projeto com Python e Pygame, sem uso de funções, mas com toda a lógica do jogo implementada. Esse projeto me ajudou a aprender conceitos importantes como lógica de programação, controle de eventos e desenvolvimento de interfaces gráficas.
+The code was written in English, even though this was my first project using Python and Pygame. It doesn't use functions, but includes the full game logic. This project helped me learn key concepts such as programming logic, event handling, and GUI development.
 
-## Como rodar
+## How to Run
 
-1. Certifique-se de ter o Python instalado.
-2. Instale a biblioteca Pygame, se ainda não tiver:
-3. Execute o arquivo principal do jogo (BlackJacj.exe):
+1. Make sure you have Python installed (version 3.x).
+2. Install the Pygame library if you haven't already:
 
-## Estrutura do projeto
+3. Run the main game file (BlackJack.exe):
 
-- Imagens das cartas (separadas manualmente)
-- Código fonte em Python com lógica do jogo e interface gráfica
+## Project Structure
 
-## Contribuições
+- Card images (manually separated)
+- Python source code with game logic and graphical interface
 
-Sinta-se à vontade para abrir os codigos BJ_app e BJ_gameconfig e modificar o que quiser!
+## Contributions
+
+Feel free to open the `BJ_app` and `BJ_gameconfig` files and modify anything you want!
 
 ---
 
-Qualquer dúvida, só chamar!
+If you have any questions, just let me know!
+
