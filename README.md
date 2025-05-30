@@ -8,10 +8,9 @@ O código foi escrito em inglês, mesmo sendo meu primeiro projeto com Python e 
 
 ## Como rodar
 
-1. Certifique-se de ter o Python instalado (versão 3.x).
+1. Certifique-se de ter o Python instalado.
 2. Instale a biblioteca Pygame, se ainda não tiver:
-
-3. Execute o arquivo principal do jogo:
+3. Execute o arquivo principal do jogo (BlackJacj.exe):
 
 ## Estrutura do projeto
 
@@ -20,7 +19,7 @@ O código foi escrito em inglês, mesmo sendo meu primeiro projeto com Python e 
 
 ## Contribuições
 
-Sinta-se à vontade para abrir issues ou pull requests para melhorias ou correções.
+Sinta-se à vontade para abrir os codigos BJ_app e BJ_gameconfig e modificar o que quiser!
 
 ---
 
