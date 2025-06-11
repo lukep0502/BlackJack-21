@@ -1,5 +1,7 @@
 # Blackjack Game (21)
 
+![Python](https://img.shields.io/badge/Linguagem-Python-yellow?logo=python)
+
 This is a Blackjack game developed in Python using the Pygame library for the graphical interface. The player can click buttons to draw cards ("Hit") or stop the round ("Stand").
 
 All card images were manually separated, and the design is simple, focusing on functionality.
